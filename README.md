@@ -1,8 +1,7 @@
 # Unb na Mão ✋
 
 ## Links
- - [UnB na Mão](https://unbnamao.netlify.app/)
- - [Sobre o projeto](https://fga0138-mds-ajax.github.io/2023-2-ANTARES/)
+ - [UnB na Mão](https://unbnamao.netlify.app/)  |  [Sobre o projeto](https://fga0138-mds-ajax.github.io/2023-2-ANTARES/)
  
    ![image](https://github.com/samuelvictorol/UnB-na-Mao/assets/95868897/4db89606-683c-4b51-a2a3-46c2b610adaa)
    ![image](https://github.com/samuelvictorol/UnB-na-Mao/assets/95868897/479f8e70-1763-449b-b92b-69609a73bd26)
